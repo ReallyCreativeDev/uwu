@@ -10,6 +10,13 @@ Before running the bot you will need to install all the requirements with this c
 ```
 python -m pip install -r requirements.txt
 ```
+After that you need to add the rest to a .env file like this
+
+```
+TOKEN=
+PREFIX=
+INVITE_LINK=
+```
 
 After that you can start it with
 
